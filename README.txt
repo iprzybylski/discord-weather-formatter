@@ -61,7 +61,3 @@ Usage:
         st: scattered thunderstorms
         t : thunderstorms
 
-    in formatter.py:
-
-        format_multiday(num_days) prompts the user to enter weather conditions for 
-        num_days days in the format <low temp> <high temp> <weather code>. 
